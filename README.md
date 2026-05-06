@@ -3,7 +3,6 @@
 ## 👨‍💻 Integrantes
 
 * Davi Vieira - 556798
-* Luca Monteiro - 556906
 
 ---
 
